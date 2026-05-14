@@ -1,0 +1,6 @@
+{
+  "name": "HR Compliance Chatbot",
+  "description": "근로기준법 및 사내 취업규칙 기반 인사 질의응답 챗봇 시스템입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
